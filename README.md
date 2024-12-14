@@ -28,7 +28,7 @@ A C++ application that analyzes the strength of passwords by evaluating multiple
 ## Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/danimnunes/password_checker
+git clone https://github.com/danimnunes/PasswordAnalyzer
 cd password-analyzer
 ```
 
